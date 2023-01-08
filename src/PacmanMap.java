@@ -1,5 +1,6 @@
 
-
+//This class contains the map of the game stored in an array. 1 is a wall and 0 is empty space that can be travelled through. Each value represents a square of UNIT_SIZE x UNIT_SIZE.
+//Total number of pixels in the map must add up to the PacmanPanel width and height.
 public class PacmanMap {
 
 	//32 x 18
